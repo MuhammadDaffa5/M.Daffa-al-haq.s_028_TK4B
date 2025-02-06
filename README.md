@@ -22,7 +22,8 @@ B. Percobaan dan analisis : <br>
 Crimping kabel UTP (Unshielded Twisted Pair) adalah proses menghubungkan kabel UTP ke konektor RJ-45 dengan
 menggunakan alat crimping. Tujuan dari crimping adalah untuk menciptakan koneksi yang kuat dan stabil antara kabel UTP
 dan konektor RJ-45. Dalam percobaan ini, dilakukan pembuatan kabel jaringan dengan dua jenis konfigurasi, yaitu kabel
-straight dan kabel cross. Tahapan yang dilakukan adalah : <br>
+straight dan kabel cross. <br>
+Tahapan yang dilakukan adalah : <br>
 1. Melakukan pemotongan kabel UTP <br>
 <img src="https://github.com/user-attachments/assets/a1508469-76fe-4ef6-a176-5d84801153aa" alt="Image" width="300"> <br>
 2. pengupasan lapisan kabel <br>
