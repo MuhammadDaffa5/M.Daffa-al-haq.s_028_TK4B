@@ -51,7 +51,7 @@ straight berfungsi dengan baik, ditandai dengan indikator lampu yang menyala ses
 Sementara itu, kabel cross juga berhasil diuji, dengan indikator menyala sesuai pola silang yang diharapkan. Hal ini
 menandakan bahwa proses penyusunan kabel dan pemasangan konektor telah dilakukan dengan benar sesuai standar.
 
-C. Kesimpulan Percobaan :
+C. Kesimpulan Percobaan : <br>
 Proses pembuatan kabel jaringan memerlukan ketelitian dalam menyusun urutan warna, memasang konektor RJ45, dan melakukan crimping. Kesalahan kecil, seperti urutan warna yang salah atau crimping yang tidak sempurna, dapat menyebabkan kabel tidak berfungsi.
 
 Penggunaan LAN tester juga sangat membantu dalam memastikan kabel berfungsi dengan baik. Indikator pada tester memberikan informasi yang jelas tentang keberhasilan koneksi untuk setiap pin, sehingga memungkinkan perbaikan jika ditemukan masalah.
